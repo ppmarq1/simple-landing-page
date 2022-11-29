@@ -72,12 +72,13 @@
 
 /* Workingspace */
 .workingspace {
-    margin-top: 120px;
+    margin-top: 50px;
     text-align: center;
 }
 
 .workingspace img {
-    margin-bottom: 20px;
+    align-items: center;
+    margin-bottom: 80px;
 }
 
 .workingspace h2 {
