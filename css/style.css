@@ -41,7 +41,7 @@
 }
 
 .jumbotron .display-4 span {
-    font-weight: 600;
+    font-weight: 400;
 }
 
 
@@ -50,7 +50,7 @@
 .info-panel {
     background-color: white;
     padding: 30px;
-    margin-top: -120px;
+    margin-top: -40px;
     border-radius: 12px;
     box-shadow: 0 3px 20px rgba(0, 0, 0, 0.6);
 }
