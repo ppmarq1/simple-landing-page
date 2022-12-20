@@ -1,54 +1,57 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Simple Landing Page
+## Collision: Web Summit 2023
 
-> This is my Microverse Project on my Portfolio.
+> My first Microverse Capstone Project.
 
 ## Built With
 
 - HTML
 - CSS
+- Javascript
 
 ## Live Demo
 
-Visit comming soom...... to view online
+Feel free to check the: [Portfolio-link](https://ppmarq1.github.io/Portfolio-Capstone-Collision/)
 
-## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## Video for Documentation 
 
-To get a local copy up and running follow these simple example steps.
+[Video](https://www.loom.com/share/b5e4fff7c5f44e65ac63c66e869bc514)
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+## Setup
+- Clone this repository to your desktop.
+- Navigate to the top level of the directory.
+
+## Install
+- Clone the repository
+https://github.com/ppmarq1/Capstone-1-Collision
+npm . init -y
+npm install
+
+## Run tests
+npx stylelint "**/*.{css,scss}"
+npx hint .
+
 
 - Web Browser
-- VS Code
+- [Visual Studio code](https://code.visualstudio.com/)
 
-### Install
-
-1. Clone the repo or download the repo files
-
-> git clone https://github.com/ppmarq1/simple-landing-page.git
-
-2. Open folder or zip in VS Code
-
-3. Run the HTML file (index.html) on Browser locally or with Live Server
-
-## Authors
+## Author
 
 👤 **Pedro Marques**
 
 - GitHub: https://github.com/ppmarq1
 - Twitter: https://twitter.com/ppmarq1
-- LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/
+- LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/  
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](https://github.com/ppmarq1/Capstone-1-Collision/issues). 
 
 ## Show your support
 
@@ -56,9 +59,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Theme Original design idea by: [Cindy Shin in Behance](https://www.behance.net/adagio07)  
+
 
 ## 📝 License
 
