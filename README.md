@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Collision: Web Summit 2023
+## Unique Cleanning
 
-> My first Microverse Capstone Project.
+> This is a single landing page
 
 ## Built With
 
@@ -12,12 +12,9 @@
 
 ## Live Demo
 
-Feel free to check the: [Portfolio-link](https://ppmarq1.github.io/Portfolio-Capstone-Collision/)
+Feel free to check the: [Portfolio-link](soon)
 
 
-## Video for Documentation 
-
-[Video](https://www.loom.com/share/b5e4fff7c5f44e65ac63c66e869bc514)
 
 ### Prerequisites
 
@@ -27,7 +24,7 @@ Feel free to check the: [Portfolio-link](https://ppmarq1.github.io/Portfolio-Cap
 
 ## Install
 - Clone the repository
-https://github.com/ppmarq1/Capstone-1-Collision
+https://github.com/ppmarq1/simple-landing-page.git
 npm . init -y
 npm install
 
@@ -47,19 +44,10 @@ npx hint .
 - Twitter: https://twitter.com/ppmarq1
 - LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/  
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/ppmarq1/Capstone-1-Collision/issues). 
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Theme Original design idea by: [Cindy Shin in Behance](https://www.behance.net/adagio07)  
 
 
 ## 📝 License
